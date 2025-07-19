@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cüneyd</h1>
 <h3 align="center">Master's degree student in the Computer Engineering department at Kocaeli University</h3>
 
-- 🔭 I’m currently working on **Blockchain and IOT**
+- 🔭 I’m currently working on **Blockchain, IOT and LLMs**
 
 - 🌱 I’m currently learning **Django**
 
