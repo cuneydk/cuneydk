@@ -3,4 +3,4 @@
 - I work across public administration and computer engineering: management and coordination on one side, AI research on the other.
 - I’m currently learning **Claude Code**
 
-[Personel Website](https://cuneydkurtbas.com)
+[Personal Website](https://cuneydkurtbas.com)
